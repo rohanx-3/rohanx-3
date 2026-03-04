@@ -47,7 +47,7 @@ AI engineering student passionate about Python, prompt engineering, and building
 
 <p align="left">
 
-<a href="https://linkedin.com/in/rohan-shitole" target="blank">
+<a href="https://www.linkedin.com/in/rohan-shitole-4203ba37b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shitole" height="30" width="40" />
 </a>
 
