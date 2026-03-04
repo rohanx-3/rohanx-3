@@ -1,140 +1,168 @@
 <h1 align="center">Hi 👋, I'm Rohan Shitole</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Engineering+Student;%26+Python+Developer;AI+Enthusiast" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
 <!-- Social Links -->
+
 <p align="center">
   <a href="mailto:shitolerohan67@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
+
+  <a href="https://www.instagram.com/rohanshitole_03">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+---
 
 ## 💫 About Me
 
-I’m *Rohan Shitole*, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
-
-- 🏢 I currently work as a *Mentor & Trainer, delivering technical guidance and project-based learning under **DevineTech Solutions*, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with *Dexpert Systems*, contributing to development and learning in advanced system design and modern technology stacks.
-
-### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
-- 🎓 Mentoring & Training aspiring developers
-- 🏗️ Project Architecture & System Design
-- 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
-
-### 🚀 Interests
-- 🤖 AI-assisted systems & automation
-- 🧩 Clean code, system thinking, and product mindset
-- 📚 Teaching through real projects
-
-### 📌 Philosophy
-> "Build with purpose. Learn continuously. Teach what you master."
+AI engineering student passionate about Python, prompt engineering, and building practical web and AI projects. Curious learner focused on developing intelligent systems, automation tools, and real-world technology solutions. 🚀
 
 <br>
 
 ## 💻 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <br>
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <br>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <br>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <!-- Tools & Testing -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+<img src="https://komarev.com/ghpvc/?username=ronyyy03&label=Profile%20views&color=0e75b6&style=flat" alt="ronyyy03" />
 </p>
 
-<br>
-
-## 🚀 Upcoming Projects
-
-1. *FLAT MATE* - [Upcoming]
-2. *NODE NET* - [Upcoming]
-3. *ENGIWORLD* - [Upcoming]
-4. *TEAMO :DIY STORE* - [Upcoming]
-5. *DAILY ROUTINE TRACKER* - [Upcoming]
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ronyyy03" alt="ronyyy03" />
+</a>
+</p>
 
 ---
 
-## 🛠️ IoT Projects (Patented)
+## 🌐 Connect with me
 
-1. *WOMEN SAFETY DEVICE* 
-2. *IOT BASED NOVEL SCENNER*
+<p align="left">
+
+<a href="https://linkedin.com/in/rohan-shitole" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shitole" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/rohanshitole_03" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanshitole_03" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/rohan0003" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan0003" height="30" width="40" />
+</a>
+
+</p>
 
 ---
 
-## 📖 Author of Books
+## 🧰 Languages and Tools
 
-1. *LAST SIX DAYS*
-2. *THE LOVE I CANT HOLD*
-3. *THE TUNNEL PARADOX*
-4. *I KILLED MYSELF*
-5. *THE FALL OF YASAKA*
-6. *IS THIS FIRST ?*
+<p align="left">
 
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<br><br>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-  
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronyyy03&show_icons=true&locale=en&layout=compact" />
 
 <br>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=ronyyy03&show_icons=true&locale=en" />
 
 <br>
 
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronyyy03" />
 
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
-
+</p>
 
 ---
+
 <div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
+
+*"Programming isn't about what you know; it's about what you can figure out."*
+
+**Let's build something amazing! 🚀**
+
 </div>
