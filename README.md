@@ -25,7 +25,7 @@
 
 ## 💫 About Me
 
-AI engineering student passionate about Python, prompt engineering, and building practical web and AI projects. Curious learner focused on developing intelligent systems, automation tools, and real-world technology solutions. 🚀
+Computer Engineering student passionate about Python, prompt engineering, and building practical web and AI projects. Curious learner focused on developing intelligent systems, automation tools, and real-world technology solutions. 🚀
 
 <br>
 
@@ -34,14 +34,6 @@ AI engineering student passionate about Python, prompt engineering, and building
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ronyyy03&label=Profile%20views&color=0e75b6&style=flat" alt="ronyyy03" />
 </p>
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=ronyyy03" alt="ronyyy03" />
-</a>
-</p>
-
----
 
 ## 🌐 Connect with me
 
