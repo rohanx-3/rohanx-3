@@ -63,10 +63,6 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 </a>
 
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </a>
@@ -75,15 +71,11 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
@@ -107,10 +99,6 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 
 <a href="https://www.java.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
@@ -137,13 +125,7 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronyyy03&show_icons=true&locale=en&layout=compact" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ronyyy03&show_icons=true&locale=en" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronyyy03" />
 
