@@ -29,11 +29,6 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 
 <br>
 
-## 💻 Tech Stack
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ronyyy03&label=Profile%20views&color=0e75b6&style=flat" alt="ronyyy03" />
-</p>
 
 ## 🌐 Connect with me
 
@@ -127,7 +122,7 @@ Computer Engineering student passionate about Python, prompt engineering, and bu
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronyyy03" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanx-3" />
 
 </p>
 
