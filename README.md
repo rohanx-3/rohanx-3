@@ -25,7 +25,7 @@
 
 ## 💫 About Me
 
-Computer Engineering student passionate about Python, prompt engineering, and building practical web and AI projects. Curious learner focused on developing intelligent systems, automation tools, and real-world technology solutions. 🚀
+Computer Engineering student passionate about Python, Curious learner focused on developing intelligent systems, automation tools, and real-world technology solutions. 🚀
 
 <br>
 
