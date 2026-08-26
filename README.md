@@ -119,10 +119,7 @@ Computer Engineering student passionate about Python, Curious learner focused on
 ## 📊 GitHub Stats
 
 <p align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanx-3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanx-3"/>
 
 </p>
 
