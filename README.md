@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Engineering+Student;%26+Python+Developer;AI+Enthusiast" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Engineering+Student;%26+Python+Developer;" 
       alt="Typing SVG" 
     />
   </a>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://www.instagram.com/rohanshitole_03">
+  <a href="https://www.instagram.com/rohanx3_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -38,7 +38,7 @@ Computer Engineering student passionate about Python, Curious learner focused on
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-shitole" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/rohanshitole_03" target="blank">
+<a href="https://instagram.com/rohanx3_" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanshitole_03" height="30" width="40" />
 </a>
 
